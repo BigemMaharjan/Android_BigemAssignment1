@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">BigemAssignment1</string>
+    <string name="app_bar_name">Delicia Beverage</string>
+    <string name="name_hint">Customer Name</string>
+    <string name="email_hint">Email-ID</string>
+    <string name="number_hint">Customer Phone Number</string>
+    <string name="beverageType">Beverage Type</string>
+    <string name="coffee">Coffee</string>
+    <string name="tea">Tea</string>
+    <string name="additional">Additionals</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="bevSize">Beverage Size</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="add_flavouring">Add Flavouring</string>
+    <string name="region_hint">Select Region</string>
+    <string name="select_store">Select Store</string>
+    <string name="sales_date">Sales Date</string>
+    <string name="print_bill">Print Bill</string>
+
+    <string-array name="coffee_array">
+        <item>None</item>
+        <item>Pumpkin Spice</item>
+        <item>Chocolate</item>
+    </string-array>
+
+    <string-array name="tea_array">
+        <item>None</item>
+        <item>Lemon</item>
+        <item>Ginger</item>
+    </string-array>
+
+    <string-array name="region_array">
+        <item>Waterloo</item>
+        <item>London</item>
+        <item>Milton</item>
+        <item>Mississauga</item>
+    </string-array>
+
+    <string-array name="waterloo_array">
+        <item>65 University Ave E</item>
+        <item>415 King St</item>
+        <item>585 Weber St</item>
+    </string-array>
+
+    <string-array name="london_array">
+        <item>616 Wharncliffe Rd</item>
+        <item>1885 Huron St</item>
+        <item>670 Wonderland Road</item>
+        <item>1181 Highbury Ave</item>
+    </string-array>
+
+    <string-array name="milton_array">
+        <item>900 Steeles Ave</item>
+        <item>80 Market Dr</item>
+        <item>820 Main St</item>
+    </string-array>
+
+    <string-array name="mississauga_array">
+        <item>144 Dundas St</item>
+        <item>30 Englinton Ave</item>
+        <item>6075 Creditview Rd</item>
+    </string-array>
+
+</resources>
